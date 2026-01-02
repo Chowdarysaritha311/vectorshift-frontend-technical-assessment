@@ -1,5 +1,4 @@
 # VectorShift Frontend Technical Assessment
-# VectorShift Frontend Technical Assessment
 
 This repository contains my submission for the **VectorShift (YC S23) Frontend Technical Assessment**.  
 The project demonstrates scalable frontend architecture, dynamic node behavior, clean UI styling, and backend integration using FastAPI.
